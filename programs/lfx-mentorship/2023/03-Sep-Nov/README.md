@@ -567,7 +567,7 @@ Mentee application instructions can be found on the [Program Guidelines](https:/
 - Recommended Skills: React +++, Docker ++, Vite +, REST API +++, Golang ++
 
 - Mentor(s):
-  - @fouioui Florent Poinsard frouioui@planetscale.com
+  - @fouioui Florent Poinsard florent@planetscale.com
 - Upstream Issue (URL): https://github.com/vitessio/arewefastyet/issues/415
 - LFX URL: 
 
